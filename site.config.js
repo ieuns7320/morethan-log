@@ -18,7 +18,7 @@ const CONFIG = {
   // ],
   // blog setting (required)
   blog: {
-    title: "ieuns.log",
+    title: "ieuns-log",
     description: "welcome to morethan-log!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
